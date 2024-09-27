@@ -109,7 +109,67 @@ criaCartao(
 criaCartao(
     'Biotecnologia',
     'O que é a clonagem?',
-    'É o processo de criar uma cópia genéticamente idêntica de organimo.'
+    'É o processo de criar uma cópia genéticamente idêntica de organismo.'
+)
+
+criaCartao(
+    'Biotecnologia',
+    'O que é biocombustível?',
+    'São combutíveis produzidos a partir de matéria orgânica.'
+)
+
+criaCartao(
+    'Astronomia',
+    'Existem quantos planetas no sistema solar?',
+    '8.'
+)
+
+criaCartao(
+    'Biologia',
+    'Como as plantas produzem seus alimentos?',
+    'Por meio da fotossíntese.'
+)
+
+criaCartao(
+    'Geograia',
+    'O que é a camada de ozônio?',
+    'Uma parte da atmosfera que protege a Terra dos raio ultravioleta(UV) do Sol.'
+)
+
+criaCartao(
+    'Biotecnologia',
+    'O que é biocombustível?',
+    'São combutíveis produzidos a partir de matéria orgânica.'
+)
+
+criaCartao(
+    'Biotecnologia',
+    'O que é biocombustível?',
+    'São combutíveis produzidos a partir de matéria orgânica.'
+)
+
+criaCartao(
+    'Biotecnologia',
+    'O que é biocombustível?',
+    'São combutíveis produzidos a partir de matéria orgânica.'
+)
+
+criaCartao(
+    'Biotecnologia',
+    'O que é biocombustível?',
+    'São combutíveis produzidos a partir de matéria orgânica.'
+)
+
+criaCartao(
+    'Biotecnologia',
+    'O que é biocombustível?',
+    'São combutíveis produzidos a partir de matéria orgânica.'
+)
+
+criaCartao(
+    'Biotecnologia',
+    'O que é biocombustível?',
+    'São combutíveis produzidos a partir de matéria orgânica.'
 )
 
 criaCartao(
